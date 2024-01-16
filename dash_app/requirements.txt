@@ -1,0 +1,10 @@
+dash
+dash_bootstrap_components==0.13.0
+dash_html_components
+plotly
+pandas
+psycopg2-binary
+numpy
+datetime
+pickle-mixin
+scikit-learn == 0.23.2
